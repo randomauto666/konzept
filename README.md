@@ -3762,12 +3762,6 @@ Disconnect während Commit ignorieren
 Das System sollte später problemlos erweitert werden können um:
 
 ```text
-/market
-/auctionhouse
-/barter
-/confirm
-/custom currency
-/escrow
 /trade history
 /trade requests
 ```
